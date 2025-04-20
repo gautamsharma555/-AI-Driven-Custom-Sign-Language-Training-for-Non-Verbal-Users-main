@@ -1,5 +1,6 @@
 # -AI-Driven-Custom-Sign-Language-Training-for-Non-Verbal-Users-main
 -AI-Driven-Custom-Sign-Language-Training-for-Non-Verbal-Users-main
+<<<<<<< HEAD
 
 # GeXT
 A CNN based fully fledged Hand gesture to text converter for deaf &amp; dumb.
@@ -61,3 +62,4 @@ To Test the project
 9. press 's' to start the gesture prediction.
 10. Now show the gestures to generate texts.
 11. press "q" to stop the app.
+=======
